@@ -1,0 +1,13 @@
+#cuerpo{
+	float: left;
+	max-width: 400px;
+	width: 50%;
+	padding: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-top: 20px;
+	text-align: justify;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.71) 0px 0px 2px 1px;
+  overflow: hidden;
+} 

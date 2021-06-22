@@ -1,0 +1,22 @@
+
+#cuerpo{
+	max-width: 900px;
+	width: 80%;
+	padding: 20px;
+
+	margin: 0 auto;
+	margin-top: 20px;
+	text-align: justify;
+  	background-color: white;
+  	box-shadow: rgba(0, 0, 0, 0.71) 0px 0px 2px 1px;
+  	overflow: hidden;
+} 
+
+#reporte{
+ float: right;
+ margin-bottom: 30px;
+ margin-right: 20px;
+ position: fixed;
+    bottom: 0px;
+    right: 0px;
+}

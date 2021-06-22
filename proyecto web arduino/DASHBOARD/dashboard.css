@@ -1,0 +1,32 @@
+body{
+	background-color: #e6e6e6;
+}
+#cuerpo{
+
+	max-width: 200px;
+	width: 80%;
+	padding: 40px;
+	margin: 0 auto;
+	margin-top: 10%;
+	text-align: justify;
+  	background-color: white;
+  	box-shadow: rgba(0, 0, 0, 0.71) 0px 0px 2px 1px;
+  	overflow: hidden;
+}
+
+h1{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 50px;
+}
+
+#img{
+	max-width: 100px;
+	width: 80%;
+	padding-left:50px;
+	
+	margin: 0 auto;
+}
+#a{
+	font-family: 'Noto Sans JP', sans-serif;
+	text-align:center;
+}

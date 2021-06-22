@@ -1,0 +1,149 @@
+#logo{
+	width: 621px;
+	height: 106.5px;
+}
+
+#social{
+	float:right;
+}
+
+#menu1{
+  list-style-type: none;
+  margin-right: 50px;
+  margin-top: 25px;
+  overflow: hidden;
+}
+
+.li2 {
+	margin: 5px;
+}
+.li2 a:hover{
+	opacity: 0.5;
+}
+
+#menu{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+.li1 a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family:'Noto Sans JP', sans-serif; 
+}
+
+.li1 a:hover:not(.active) {
+  background-color: #111;
+}
+.active{
+  background-color: rgb(149,64,134);
+}
+
+
+/*---------------------------------------------------------------*/
+
+#cuerpo{
+	max-width: 900px;
+	width: 80%;
+	padding: 20px;
+	margin: 0 auto;
+	text-align: justify;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.71) 0px 0px 2px 1px;
+  overflow: hidden;
+
+}
+#body{
+  background-color: #e6e6e6;
+}
+label{
+  max-width: 900px;
+  width: 80%;
+  background: #eebb2c;
+  color: #000;
+  display: block;
+  margin: 0 auto;
+  padding: 20px;
+  box-shadow: rgba(0, 0, 0, 0.71) 0px 0px 2px 1px;
+
+}
+span{
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 40px;
+}
+p{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 20px;
+}
+
+h3{
+  font-family: 'Noto Sans JP', sans-serif;
+}
+h2{
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.contacto{
+  float: left;
+  max-width: 30%;
+  margin: 10px;
+  margin-left: 40px;
+  margin-right: 40px;
+
+}
+
+/*---------------------------------------------------------------*/
+#footer{
+
+  overflow: hidden;
+  background-color: #333;
+}
+#fooul{
+  list-style-type: none;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 20px;
+}
+
+#footp{
+  color: white;
+}
+.foot{
+  max-width: 30%;
+  margin: 10px;
+  float: left;
+  color: white;
+}
+#myBtn {
+  
+  position: fixed; 
+  bottom: 20px; 
+  right: 30px; 
+  z-index: 99; 
+  border: none; 
+  outline: none; 
+  background-color: red; 
+  color: white; 
+  cursor: pointer; 
+  padding: 15px; 
+  border-radius: 10px; 
+  font-size: 18px; 
+}
+
+#upim{
+  width: 20px;
+  height: 20px;
+
+}
+#myBtn:hover {
+  opacity: 0.5 
+}

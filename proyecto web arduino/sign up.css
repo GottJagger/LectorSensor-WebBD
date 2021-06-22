@@ -1,0 +1,167 @@
+#logo{
+	max-width: 100%;
+  width: 621px;
+	height: auto;
+}
+
+#social{
+	float:right;
+}
+
+#menu1{
+  list-style-type: none;
+  margin-right: 50px;
+  margin-top: 25px;
+  overflow: hidden;
+}
+
+.li2 {
+	margin: 5px;
+}
+.li2 a:hover{
+	opacity: 0.5;
+}
+
+#menu{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+.li1 a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family:'Noto Sans JP', sans-serif; 
+}
+
+.li1 a:hover:not(.active) {
+  background-color: #111;
+}
+.active{
+  background-color: #4CAF50;
+}
+
+
+/*---------------------------------------------------------------*/
+
+
+#cuerpo{
+  max-width: 900px;
+  width: 80%;
+  padding: 20px;
+  margin: 0 auto;
+  text-align: justify;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.71) 0px 0px 2px 1px;
+  overflow: hidden;
+
+}
+#body{
+  background-color: #e6e6e6;
+}
+#top{
+  max-width: 900px;
+  width: 80%;
+  background: #eebb2c;
+  color: #000;
+  display: block;
+  margin: 0 auto;
+  padding: 20px;
+  box-shadow: rgba(0, 0, 0, 0.71) 0px 0px 2px 1px;
+  text-align: center;
+  
+}
+#topspan{
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 40px;
+}
+p{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 20px;
+}
+
+#logim{
+  max-width: auto;
+  height: auto;
+  float: left;
+  margin-left: 10%;
+  margin-top: 10%;
+}
+
+input[type=email], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #ea0a0a;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.container {
+  max-width: 60%;
+  height: auto;
+  float: right;
+  padding: 16px;
+  font-family: 'Roboto Mono', monospace;
+}
+
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+h3{
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+#mensaje{
+  width: 30%;
+  padding: 20px;
+  margin: 0 auto;
+  }
+
+/*-------------------------------------------------------------------*/
+
+#footer{
+
+  overflow: hidden;
+  background-color: #333;
+}
+#fooul{
+  list-style-type: none;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 20px;
+}
+
+#footp{
+  color: white;
+}
+.foot{
+  max-width: 30%;
+  margin: 10px;
+  float: left;
+  color: white;
+}
